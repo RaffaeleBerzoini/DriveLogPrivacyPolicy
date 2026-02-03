@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** 2026/02/02
+**Last updated:** 2026/02/03
 
 This Privacy Policy describes how **DriveLog: Multi-Fuel Car Costs** (hereinafter "the Application") collects, uses, and handles user data.
 
@@ -77,7 +77,7 @@ The Application must not be actively used while driving. The user is required to
 
 # Informativa sulla Privacy
 
-**Ultimo aggiornamento:** 2026/02/02
+**Ultimo aggiornamento:** 2026/02/03
 
 Questa Informativa sulla Privacy descrive come l'applicazione **DriveLog: Multi-Fuel Car Costs** (di seguito "l'Applicazione") raccoglie, utilizza e gestisce i dati dell'utente.
 
