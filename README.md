@@ -38,11 +38,12 @@ The Application uses third-party services that may collect information used to i
 * **Overpass API:** Used to search for nearby fuel stations. Requests are made to `overpass.openstreetmap.ru` with your location data. No personal data is stored by this service.
 * **Italian Ministry of Enterprises and Made in Italy (MIMIT):** Used as a public data source for fuel prices in Italy. The data itself does not contain personal information about you; however, when the Application retrieves prices, the service may process standard connection data (e.g., IP address) and request parameters.
 * **French Ministry of Economy (data.gouv.fr — Prix des carburants en France):** Used as a public data source for fuel prices in France. Data is retrieved from `donnees.roulez-eco.fr` under the Licence Ouverte / Open Licence. The data itself does not contain personal information about you; however, when the Application retrieves prices, the service may process standard connection data (e.g., IP address) and request parameters.
+* **Spanish Ministry for Ecological Transition (MITECO — Geoportal Gasolineras):** Used as a public data source for fuel prices in Spain. Data is retrieved from `sedeaplicaciones.minetur.gob.es` under the Reutilización de la información del sector público licence (Real Decreto 1495/2011). The data itself does not contain personal information about you; however, when the Application retrieves prices, the service may process standard connection data (e.g., IP address) and request parameters.
 * **Google Drive API:** Used for the cloud backup feature (optional, user-initiated).
 
 ## 4. Log Data
 
-The Application does not actively collect or send crash logs to external services. However, your device or network may log standard connection information as part of normal system operation. Requests to third-party services (e.g., OpenStreetMap, Overpass API, MIMIT, data.gouv.fr) are processed in real-time to provide features such as map rendering, fuel station searches, and fuel price retrieval.
+The Application does not actively collect or send crash logs to external services. However, your device or network may log standard connection information as part of normal system operation. Requests to third-party services (e.g., OpenStreetMap, Overpass API, MIMIT, data.gouv.fr, MITECO) are processed in real-time to provide features such as map rendering, fuel station searches, and fuel price retrieval.
 
 ## 5. Security
 
@@ -66,7 +67,7 @@ The Developer will not be liable for any direct or indirect damages arising from
 * Vehicle damage or running out of fuel.
 
 **3. Third-Party Data**
-Maps and geographic data are provided by **OpenStreetMap** (© OpenStreetMap contributors) under the ODbL license. Fuel price data for Italian stations is provided by the **Italian Ministry of Enterprises and Made in Italy (MIMIT)**, and for French stations by the **French Ministry of Economy (data.gouv.fr)** under the Licence Ouverte / Open Licence. The Developer has no control over the accuracy, completeness, or timeliness of third-party data.
+Maps and geographic data are provided by **OpenStreetMap** (© OpenStreetMap contributors) under the ODbL license. Fuel price data for Italian stations is provided by the **Italian Ministry of Enterprises and Made in Italy (MIMIT)**, for French stations by the **French Ministry of Economy (data.gouv.fr)** under the Licence Ouverte / Open Licence, and for Spanish stations by the **Spanish Ministry for Ecological Transition (MITECO — Geoportal Gasolineras)** under the Reutilización de la información del sector público licence (Real Decreto 1495/2011). The Developer has no control over the accuracy, completeness, or timeliness of third-party data.
 
 **4. Use While Driving**
 The Application must not be actively used while driving. The user is required to comply with traffic laws and to use the app only when the vehicle is stopped and in safe conditions.
@@ -116,11 +117,12 @@ L'Applicazione utilizza servizi di terze parti che potrebbero raccogliere inform
 * **Overpass API:** Utilizzato per cercare i distributori di carburante nelle vicinanze. Le richieste sono inviate a `overpass.openstreetmap.ru` con i dati della tua posizione. Nessun dato personale viene memorizzato da questo servizio.
 * **Ministero delle Imprese e del Made in Italy (MIMIT):** Utilizzato come fonte dati pubblica per i prezzi dei carburanti in Italia. I dati in sé non contengono informazioni personali sull'utente; tuttavia, quando l'Applicazione recupera i prezzi, il servizio può trattare dati tecnici di connessione (es. indirizzo IP) e parametri della richiesta.
 * **Ministero dell'Economia francese (data.gouv.fr — Prix des carburants en France):** Utilizzato come fonte dati pubblica per i prezzi dei carburanti in Francia. I dati vengono recuperati da `donnees.roulez-eco.fr` sotto licenza Licence Ouverte / Open Licence. I dati in sé non contengono informazioni personali sull'utente; tuttavia, quando l'Applicazione recupera i prezzi, il servizio può trattare dati tecnici di connessione (es. indirizzo IP) e parametri della richiesta.
+* **Ministero per la Transizione Ecologica spagnolo (MITECO — Geoportal Gasolineras):** Utilizzato come fonte dati pubblica per i prezzi dei carburanti in Spagna. I dati vengono recuperati da `sedeaplicaciones.minetur.gob.es` sotto licenza Reutilización de la información del sector público (Real Decreto 1495/2011). I dati in sé non contengono informazioni personali sull'utente; tuttavia, quando l'Applicazione recupera i prezzi, il servizio può trattare dati tecnici di connessione (es. indirizzo IP) e parametri della richiesta.
 * **Google Drive API:** Utilizzato per la funzionalità di backup in cloud (opzionale, su richiesta dell'utente).
 
 ## 4. Log Data
 
-L'Applicazione non raccoglie attivamente o invia log di crash a servizi esterni. Tuttavia, il dispositivo o la rete potrebbero registrare informazioni di connessione standard come parte del funzionamento normale del sistema. Le richieste ai servizi di terze parti (es. OpenStreetMap, Overpass API, MIMIT, data.gouv.fr) vengono elaborate in tempo reale per fornire funzionalità quali visualizzazione della mappa, ricerca dei distributori e recupero dei prezzi dei carburanti.
+L'Applicazione non raccoglie attivamente o invia log di crash a servizi esterni. Tuttavia, il dispositivo o la rete potrebbero registrare informazioni di connessione standard come parte del funzionamento normale del sistema. Le richieste ai servizi di terze parti (es. OpenStreetMap, Overpass API, MIMIT, data.gouv.fr, MITECO) vengono elaborate in tempo reale per fornire funzionalità quali visualizzazione della mappa, ricerca dei distributori e recupero dei prezzi dei carburanti.
 
 ## 5. Sicurezza
 
@@ -144,7 +146,7 @@ Lo Sviluppatore non sarà responsabile per alcun danno diretto o indiretto deriv
 * Danni al veicolo o esaurimento del carburante.
 
 **3. Dati di Terze Parti**
-Le mappe e i dati geografici sono forniti da **OpenStreetMap** (© OpenStreetMap contributors) sotto licenza ODbL. I prezzi del carburante per i distributori italiani sono forniti dal **Ministero delle Imprese e del Made in Italy (MIMIT)** e per i distributori francesi dal **Ministero dell'Economia francese (data.gouv.fr)**. Lo Sviluppatore non ha controllo su accuratezza, completezza o tempestività dei dati di terze parti.
+Le mappe e i dati geografici sono forniti da **OpenStreetMap** (© OpenStreetMap contributors) sotto licenza ODbL. I prezzi del carburante per i distributori italiani sono forniti dal **Ministero delle Imprese e del Made in Italy (MIMIT)**, per i distributori francesi dal **Ministero dell'Economia francese (data.gouv.fr)** sotto licenza Licence Ouverte / Open Licence e per i distributori spagnoli dal **Ministero per la Transizione Ecologica spagnolo (MITECO — Geoportal Gasolineras)** sotto licenza Reutilización de la información del sector público (Real Decreto 1495/2011). Lo Sviluppatore non ha controllo su accuratezza, completezza o tempestività dei dati di terze parti.
 
 **4. Uso alla Guida**
 L'Applicazione non deve essere utilizzata attivamente mentre si è alla guida. L'utente è tenuto a rispettare il Codice della Strada e a operare sull'app solo a veicolo fermo e in condizioni di sicurezza.
