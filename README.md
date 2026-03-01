@@ -42,7 +42,7 @@ The Application uses third-party services that may collect information used to i
 
 ## 4. Log Data
 
-The Application does not actively collect or send crash logs to external services. However, your device or network may log standard connection information as part of normal system operation. Requests to third-party services (e.g., OpenStreetMap, Overpass API, MIMIT) are processed in real-time to provide features such as map rendering, fuel station searches, and fuel price retrieval.
+The Application does not actively collect or send crash logs to external services. However, your device or network may log standard connection information as part of normal system operation. Requests to third-party services (e.g., OpenStreetMap, Overpass API, MIMIT, data.gouv.fr) are processed in real-time to provide features such as map rendering, fuel station searches, and fuel price retrieval.
 
 ## 5. Security
 
@@ -120,7 +120,7 @@ L'Applicazione utilizza servizi di terze parti che potrebbero raccogliere inform
 
 ## 4. Log Data
 
-L'Applicazione non raccoglie attivamente o invia log di crash a servizi esterni. Tuttavia, il dispositivo o la rete potrebbero registrare informazioni di connessione standard come parte del funzionamento normale del sistema. Le richieste ai servizi di terze parti (es. OpenStreetMap, Overpass API, MIMIT) vengono elaborate in tempo reale per fornire funzionalità quali visualizzazione della mappa, ricerca dei distributori e recupero dei prezzi dei carburanti.
+L'Applicazione non raccoglie attivamente o invia log di crash a servizi esterni. Tuttavia, il dispositivo o la rete potrebbero registrare informazioni di connessione standard come parte del funzionamento normale del sistema. Le richieste ai servizi di terze parti (es. OpenStreetMap, Overpass API, MIMIT, data.gouv.fr) vengono elaborate in tempo reale per fornire funzionalità quali visualizzazione della mappa, ricerca dei distributori e recupero dei prezzi dei carburanti.
 
 ## 5. Sicurezza
 
